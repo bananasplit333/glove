@@ -1,5 +1,4 @@
-./env
-./poetry.lock
-./__pycache__
-./pyproject.toml
-
+.env
+env/
+.venv/
+.vscode/
